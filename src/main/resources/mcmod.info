@@ -1,14 +1,14 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "HypixelChatUtility",
+    "description": "A mod to implement some hypixel chat features",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "url": "https://github.com/Extraherz/HypixelChatUtility",
     "updateUrl": "",
     "authorList": [
-      "You"
+      "Extraherz"
     ],
     "credits": "",
     "logoFile": "",
